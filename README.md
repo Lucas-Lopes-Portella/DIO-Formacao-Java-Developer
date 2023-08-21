@@ -9,7 +9,7 @@ Repositório criado para incluir os projetos do curso.
 
 > Desafio de projeto
 
-- [ ] Simulando Uma Conta Bancária Através Do Terminal/Console. (Básico)
+- [X] Simulando Uma Conta Bancária Através Do Terminal/Console. (Básico)
 - [ ] Criando Um Pequeno Sistema Para Validação de Processo Seletivo. (Básico)
 - [ ] Orientação a Objetos e UML: Diagramação de Classes do iPhone. (Intermediário)
 - [ ] Criando um Banco Digital com Java e Orientação a Objetos. (Intermediário)
