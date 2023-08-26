@@ -7,7 +7,6 @@
 - [X] Resolvendo desafios - Escopo e Estruturas de Controle em Java
 
 > Desafio de projeto
-
 - [X] Simulando Uma Conta Bancária Através Do Terminal/Console. (Básico)
 - [ ] Criando Um Pequeno Sistema Para Validação de Processo Seletivo. (Básico)
 - [ ] Orientação a Objetos e UML: Diagramação de Classes do iPhone. (Intermediário)
