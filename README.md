@@ -1,7 +1,6 @@
 # DIO-Formacao-Java-Developer
 
-
-Repositório criado para incluir os projetos do curso.
+## Repositório criado para incluir os projetos do curso.
 
 > Desafio de código
 - [X] Resolvendo desafios - Fundamentos da Linguagem de Programação Java
